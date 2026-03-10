@@ -2,12 +2,11 @@
   "name": "Tabata Timer",
   "short_name": "Tabata",
   "description": "Tabata style interval timer with sound effects",
-  "start_url": "/",
+  "start_url": ".",
   "display": "standalone",
   "background_color": "#667eea",
   "theme_color": "#667eea",
   "orientation": "portrait",
-  "scope": "/",
   "icons": [
     {
       "src": "icon-192.png",
